@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\github\PoppnTopping\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="358ec374d474050c867d4ecaec45110d27b85dad">
+        <dex dex="C:\github\PoppnTopping\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3a6c20439133c2a826afc9e9dbff1b6c350365e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\github\PoppnTopping\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\github\PoppnTopping\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_06f259e68cb366aea088930fb218226ee1dcf043\classes.dex" />
+    </item>
+
+</items>
